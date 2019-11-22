@@ -16,7 +16,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  
+  <!-- 测试github更新代码 -->
   <dependencies>
         <!-- 同时需要common模块和logging模块只需要引入logging模块即可 -->
         <dependency>
